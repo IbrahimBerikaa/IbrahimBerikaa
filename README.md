@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hey there, I'm Ibrahim... <a href="https://linkedin.com/in/Ibrahim-Berikaa"> Your IT Professional :)</h1>
 
-<!--
-**IbrahimBerikaa/IbrahimBerikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Microsoft Azure / Active Directory</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/IbrahimBerikaa/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IbrahimBerikaa/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - [Network File Shares and Permissions](https://github.com/IbrahimBerikaa/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/DanielRodriguezIT/Building-Intuition-for-DNS)
+-  <b>osTicket (Help Desk Ticketing System)</b>
+   - [osTicket: Prerequisites and Installation](https://github.com/IbrahimBerikaa/osticket-prereqs)
+   - [osTicket: Post-Installation Configuration](https://github.com/IbrahimBerikaa/osTicketPostConfiguration)
+   - [osTicket: Ticket Lifecycle Examples](https://github.com/IbrahimBerikaa/osTicket-LifeCycle-Examples)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Connect with me:</h2>
+
+
+[<img align="left" alt="Ibrahim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/Ibrahim-Berikaa
