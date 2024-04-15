@@ -8,9 +8,9 @@
   - [Network File Shares and Permissions](https://github.com/IbrahimBerikaa/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/DanielRodriguezIT/Building-Intuition-for-DNS)
 -  <b>OsTicket (Help Desk Ticketing System)</b>
-   - [osTicket: Prerequisites and Installation](https://github.com/IbrahimBerikaa/osticket-prereqs)
-   - [osTicket: Post-Installation Configuration](https://github.com/IbrahimBerikaa/osTicketPostConfiguration)
-   - [osTicket: Ticket Lifecycle Examples](https://github.com/IbrahimBerikaa/osTicket-LifeCycle-Examples)
+   - [OsTicket: Prerequisites and Installation](https://github.com/IbrahimBerikaa/osticket-prereqs)
+   - [OsTicket: Post-Installation Configuration](https://github.com/IbrahimBerikaa/osTicketPostConfiguration)
+   - [OsTicket: Ticket Lifecycle Examples](https://github.com/IbrahimBerikaa/osTicket-LifeCycle-Examples)
 
 <h2>Connect with me:</h2>
 
