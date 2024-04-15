@@ -7,7 +7,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IbrahimBerikaa/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Network File Shares and Permissions](https://github.com/IbrahimBerikaa/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/DanielRodriguezIT/Building-Intuition-for-DNS)
--  <b>osTicket (Help Desk Ticketing System)</b>
+-  <b>OsTicket (Help Desk Ticketing System)</b>
    - [osTicket: Prerequisites and Installation](https://github.com/IbrahimBerikaa/osticket-prereqs)
    - [osTicket: Post-Installation Configuration](https://github.com/IbrahimBerikaa/osTicketPostConfiguration)
    - [osTicket: Ticket Lifecycle Examples](https://github.com/IbrahimBerikaa/osTicket-LifeCycle-Examples)
