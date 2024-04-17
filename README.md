@@ -5,7 +5,7 @@
 - <b>Microsoft Azure / Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/IbrahimBerikaa/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/IbrahimBerikaa/Network-Protocols)
-  - [Network File Shares and Permissions](https://github.com/IbrahimBerikaa/Network-File-Shares-and-Permissions)
+  - [Network File Shares and Permissions](https://github.com/IbrahimBerikaa/Network-Permissions)
   - [Building Intuition for DNS](https://github.com/DanielRodriguezIT/Building-Intuition-for-DNS)
 -  <b>OsTicket (Help Desk Ticketing System)</b>
    - [OsTicket: Prerequisites and Installation](https://github.com/IbrahimBerikaa/osticket-prereqs)
