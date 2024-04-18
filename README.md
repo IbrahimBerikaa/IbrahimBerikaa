@@ -9,8 +9,8 @@
   - [Building Intuition for DNS](https://github.com/IbrahimBerikaa/DNS)
 -  <b>OsTicket (Help Desk Ticketing System)</b>
    - [OsTicket: Prerequisites and Installation](https://github.com/IbrahimBerikaa/OsTicket-Installation)
-   - [OsTicket: Post-Installation Configuration](https://github.com/IbrahimBerikaa/osTicketPostConfiguration)
-   - [OsTicket: Ticket Lifecycle Examples](https://github.com/IbrahimBerikaa/osTicket-LifeCycle-Examples)
+   - [OsTicket: Post-Installation Configuration](https://github.com/IbrahimBerikaa/OsTicket-Configuration)
+   - [OsTicket: Ticket Lifecycle Examples](https://github.com/IbrahimBerikaa/OsTicket-LifeCycle)
 
 <h2>Connect with me:</h2>
 
