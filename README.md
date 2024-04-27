@@ -1,4 +1,3 @@
-<h1>Hey there, I'm Ibrahim... <a href="https://linkedin.com/in/Ibrahim-Berikaa"> Your IT Professional :)</h1>
 
 <h2>My Projects:</h2>
 
